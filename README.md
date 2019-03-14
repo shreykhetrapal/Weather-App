@@ -35,5 +35,5 @@ end
 ```
 
 
-Copyright © The App Brewery
+
 
